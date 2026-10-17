@@ -69,3 +69,16 @@ int main()
     return 0;
 }
 ```
+## 3. Результаты работы программы
+
+**Пример 1: Ввод x = 10**
+
+<img width="414" height="124" alt="image" src="https://github.com/user-attachments/assets/63422883-f390-4be6-a0c0-a4ebba31ccae" />
+
+**Пример 2: Ввод x = 5**
+
+<img width="460" height="127" alt="image" src="https://github.com/user-attachments/assets/4f699c76-4dcd-4490-976c-0b26172a3396" />
+
+## 4. Информация о разработчике
+Носырева Элла 
+бОТИ-261
