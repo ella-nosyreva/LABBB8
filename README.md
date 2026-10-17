@@ -23,7 +23,7 @@
 9. **Конец**
 
 ### Блок-схема
-<img width="379" height="762" alt="Блок-схема" src="ССЫЛКА_НА_ТВОЮ_БЛОК_СХЕМУ" />
+<img width="250" height="650" alt="Диаграмма8drawio drawio" src="https://github.com/user-attachments/assets/134260f9-75ae-43d7-867b-292fbe90a542" />
 
 ## 2. Реализация программы
 
@@ -73,11 +73,11 @@ int main()
 
 **Пример 1: Ввод x = 10**
 
-<img width="414" height="124" alt="image" src="https://github.com/user-attachments/assets/63422883-f390-4be6-a0c0-a4ebba31ccae" />
+<img width="207" height="62" alt="image" src="https://github.com/user-attachments/assets/63422883-f390-4be6-a0c0-a4ebba31ccae" />
 
 **Пример 2: Ввод x = 5**
 
-<img width="460" height="127" alt="image" src="https://github.com/user-attachments/assets/4f699c76-4dcd-4490-976c-0b26172a3396" />
+<img width="230" height="63" alt="image" src="https://github.com/user-attachments/assets/4f699c76-4dcd-4490-976c-0b26172a3396" />
 
 ## 4. Информация о разработчике
 Носырева Элла 
